@@ -45,7 +45,7 @@ string expand_from_center(string &s1, string &s2){
     }
   }
   if(longestPal.size() == 0){
-    return  "";
+    return  "NONE";
   }
     return longestPal; 
 }
